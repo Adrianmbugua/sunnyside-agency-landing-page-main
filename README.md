@@ -1,4 +1,52 @@
 # Frontend Mentor - Sunnyside agency landing page
+### Links
+
+- Solution URL: [https://adrianmbugua.github.io/sunnyside-agency-landing-page-main/#](https://adrianmbugua.github.io/sunnyside-agency-landing-page-main/#)
+ss
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS
+-javascript
+
+
+
+### What I learned
+Some JS. Really came close to quitting, hardest challenge so far ,still not perfect
+but will upload as my Ver 1.0.
+Learned how to mix Grid and Flexbox
+
+
+
+## Author
+
+
+- Frontend Mentor - [@AdrianMbugua](https://www.frontendmentor.io/profile/Adrianmbugua)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Frontend Mentor - Sunnyside agency landing page
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
